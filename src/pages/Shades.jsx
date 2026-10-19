@@ -12,7 +12,7 @@ const Shades = () => {
     <div>
       <div className='md:text-center flex flex-col gap-3 md:gap-7 px-6 md:px-48 h-full max-h-full w-full max-w-full'>
         <h2 className='text-md md:text-xl font-medium text-gray-500 mt-5 lg:mt-30'>PRESENT YOUR SERVICE</h2>
-        <h1 className='text-[39.6px] lg:text-[80px] font-semibold leading-tight lg:leading-22 text-gray-800'>Make landing page <br /> fast and easily.</h1>
+        <h1 className='text-[46px] lg:text-[80px] font-semibold leading-tight lg:leading-22 text-gray-800'>Make landing page <br className='hidden md:block'/> fast and easily.</h1>
         <p className='text-lg md:text-xl md:font-semibold md:text-gray-400 text-gray-500 leading-9 md:leading-normal tracking-widest md:tracking-normal mb-4 md:mb-0'>Create custom landing pages with Shades that convert <br className='hidden md:block'/> more visitors than any website—no coding required.</p>
 
         <div className='flex-row md:flex gap-5 justify-center'>

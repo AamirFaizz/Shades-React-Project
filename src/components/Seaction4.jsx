@@ -40,12 +40,12 @@ const Seactions4 = () => {
             <p className='text-lg font-medium text-gray-700 leading-8 md:leading-normal'>We designed and tested prototypes that helped identify pain points in the account creation process. Together, we shaped the new standard.</p>
             <div className='flex gap-6 items-center mt-5 md:mt-8'>
               <div>
-                <img src={img2} alt="" />
+                <img src={img3} alt="" />
               </div>
 
               <div>
-                <h2 className='text-lg font-medium'>Cameron Anderson</h2>
-                <p>Designer</p>
+                <h2 className='text-lg font-medium'>Leo Morton</h2>
+                <p>Marketer</p>
               </div>
             </div>
           </div>
@@ -57,12 +57,12 @@ const Seactions4 = () => {
             <p className='text-lg font-medium text-gray-700 leading-8 md:leading-normal'>We designed and tested prototypes that helped identify pain points in the account creation process. Together, we shaped the new standard.</p>
             <div className='flex gap-6 items-center mt-5 md:mt-8'>
               <div>
-                <img src={img3} alt="" />
+                <img src={img2} alt="" />
               </div>
 
               <div>
-                <h2 className='text-lg font-medium'>Cameron Anderson</h2>
-                <p>Designer</p>
+                <h2 className='text-lg font-medium'>Catherine Simmons</h2>
+                <p>Marketer</p>
               </div>
             </div>
           </div>
@@ -71,12 +71,12 @@ const Seactions4 = () => {
             <p className='text-lg font-medium text-gray-700 leading-8 md:leading-normal'>We designed and tested prototypes that helped identify pain points in the account creation process. Together, we shaped the new standard.</p>
             <div className='flex gap-6 items-center mt-5 md:mt-8'>
               <div>
-                <img src={img2} alt="" />
+                <img src={img1} alt="" />
               </div>
 
               <div>
-                <h2 className='text-lg font-medium'>Cameron Anderson</h2>
-                <p>Designer</p>
+                <h2 className='text-lg font-medium'>Charlie Beck</h2>
+                <p>Startup Founder</p>
               </div>
             </div>
           </div>
